@@ -1,5 +1,3 @@
-# GOLD-PRICE-BY-ARIMA-MODEL
-Here’s a well-structured **README.md** content for your GitHub repository based on your project report:
 
 ---
 
